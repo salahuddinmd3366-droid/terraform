@@ -5,3 +5,4 @@ resource "azurerm_virtual_network" "vnet" {
   address_space = ["10.0.1.0/16"]
   
 }
+j

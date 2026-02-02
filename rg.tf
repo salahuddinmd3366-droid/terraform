@@ -4,5 +4,6 @@ resource "azurerm_resource_group" "rg" {
   tags = {
     env = "dev-env"
     
+    owner = "abrar"
   }
 }
